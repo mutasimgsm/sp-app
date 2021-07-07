@@ -1,0 +1,19 @@
+.footer {
+    // background-color: teal; 
+    background-color: #ffffff;
+    color: #102542;
+    height: 56px;
+    // position: relative;
+    // bottom: 0;
+    border-top: 1px solid #114272;
+    border-bottom: 2px solid #114272;
+    .footer-content {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100vw;
+}

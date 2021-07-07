@@ -1,0 +1,31 @@
+.po-content {
+    // z-index: 10;
+    width: 40%;
+    position: absolute;
+    top: 0;
+    left: 30%;
+    // display: inline;
+    // margin-left: 45%;
+
+    background-color: white;
+
+    border: 1px solid lightgray;
+    border-radius: 0 0 8px 8px;
+
+    padding: 16px;
+
+    h3 {
+        background-color: #f3f1e2;
+        text-align: center;
+        margin: -16px -16px 4px -16px;
+        padding: 4px;
+    }
+    span {
+        float: right;
+        display: inline;
+        // background-color: lightgray;
+        padding: 8px;
+        margin-bottom: -16px;
+        cursor: pointer;
+    }
+}
